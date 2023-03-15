@@ -1,1 +1,1 @@
-# Regression-on-the-tabular-data
+# Regression on the tabular data
